@@ -4,7 +4,7 @@ import time
 import urllib.request
 import smtplib, ssl
 
-API="9WpEIDIaYfNKHJvGAT9kC1XF1Rzbwhge"
+API="HgoD1lAYg0WmXp6ogLNNHzPTcz6HI2QD"
 CountryCode="IN"
 City="Bengaluru"
 date=""
