@@ -52,10 +52,10 @@ print("\n")
 print("\n")
 
 gmail_user = 'sreekanthc0298@gmail.com'
-gmail_password = 'Sree_cvA309'
+gmail_password = ''
 
 sent_from = gmail_user
-to = ['csrikanthreddy002@gmail.com','Sumanjit.Saha@dell.com','Sreekanth.Reddy2@dell.com']   #Sumanjit.Saha@dell.com
+to = ['csrikanthreddy002@gmail.com']   #Sumanjit.Saha@dell.com
 subject = 'Weather forecast for the day'
 body = Message
 
